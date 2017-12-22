@@ -1,0 +1,11 @@
+M:\OneDrive\Documents\Projects\Lab02-Unit-Testing\CardWars\bin\Debug\netcoreapp2.0\CardWars.deps.json
+M:\OneDrive\Documents\Projects\Lab02-Unit-Testing\CardWars\bin\Debug\netcoreapp2.0\CardWars.runtimeconfig.json
+M:\OneDrive\Documents\Projects\Lab02-Unit-Testing\CardWars\bin\Debug\netcoreapp2.0\CardWars.runtimeconfig.dev.json
+M:\OneDrive\Documents\Projects\Lab02-Unit-Testing\CardWars\bin\Debug\netcoreapp2.0\CardWars.dll
+M:\OneDrive\Documents\Projects\Lab02-Unit-Testing\CardWars\bin\Debug\netcoreapp2.0\CardWars.pdb
+M:\OneDrive\Documents\Projects\Lab02-Unit-Testing\CardWars\obj\Debug\netcoreapp2.0\CardWars.csprojResolveAssemblyReference.cache
+M:\OneDrive\Documents\Projects\Lab02-Unit-Testing\CardWars\obj\Debug\netcoreapp2.0\CardWars.csproj.CoreCompileInputs.cache
+M:\OneDrive\Documents\Projects\Lab02-Unit-Testing\CardWars\obj\Debug\netcoreapp2.0\CardWars.AssemblyInfoInputs.cache
+M:\OneDrive\Documents\Projects\Lab02-Unit-Testing\CardWars\obj\Debug\netcoreapp2.0\CardWars.AssemblyInfo.cs
+M:\OneDrive\Documents\Projects\Lab02-Unit-Testing\CardWars\obj\Debug\netcoreapp2.0\CardWars.dll
+M:\OneDrive\Documents\Projects\Lab02-Unit-Testing\CardWars\obj\Debug\netcoreapp2.0\CardWars.pdb
